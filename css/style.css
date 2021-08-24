@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "oswald-Medium";
+    src: url("fonts/Oswald/Oswald-Medium.ttf");
+    font-weight: 700;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,200&display=swap');
+
+
+h1{
+    font-family: "oswald-Medium";
+}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 64px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
