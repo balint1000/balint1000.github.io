@@ -9,11 +9,13 @@
 
 h1{
     font-family: "oswald-Medium";
+    color: violet;
 }
 
 p{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 64px;
+    color: green;
 }
 
 
